@@ -1,0 +1,12 @@
+.container {
+  width: 1230px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+.list {
+  display: flex;
+  list-style: none;
+}
+.aaa::before {
+  background-image: url(./Group1.png);
+}
